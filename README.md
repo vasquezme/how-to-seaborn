@@ -1,4 +1,4 @@
-# how-to-seaborn\
+# how-to-seaborn
 
 Use Python and Seaborn to explore, summarize and visualize data
 
